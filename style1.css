@@ -1,0 +1,17 @@
+body {
+	background-image: url("THE_MATH_QUIZ.png");
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-weight: bolder;
+}
+
+.login_div1,
+.login_div2 {
+	background: orangered;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
